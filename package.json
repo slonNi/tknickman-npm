@@ -1,0 +1,8 @@
+{
+  "name": "tknickman",
+  "version": "1.0.1",
+  "repository": "https://github.com/tknickman/tknickman-npm",
+  "description": "Package to claim my username",
+  "author": "Tom Knickman",
+  "license": "MIT"
+}
